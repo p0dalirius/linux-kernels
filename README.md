@@ -2,7 +2,6 @@
 
 <p align="center">
     <img alt="GitHub downloads" src="https://img.shields.io/github/downloads/p0dalirius/linux-kernels/total">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/p0dalirius/linux-kernels">
     <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
     <br>
 </p>
